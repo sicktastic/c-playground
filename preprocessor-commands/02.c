@@ -10,4 +10,3 @@ int main(void) {
   function1();
   return EXIT_SUCCESS;
 }
-
